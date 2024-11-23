@@ -1,5 +1,3 @@
 This is my first text File between local and remote repository. I am trying to add some data here.............
-
-
-
 Now I added some data in my remote repository.....
+Some bug added in my branch and commit
